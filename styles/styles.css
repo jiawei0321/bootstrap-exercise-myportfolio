@@ -141,7 +141,7 @@ body {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #b8a07e;
+    background: #6783d1;
     width: 40px;
     height: 40px;
     border-radius: 4px;
@@ -185,9 +185,7 @@ body {
     font-family: "Playfair Display", sans-serif;
     font-style: italic;
   }
-  #header .logo a {
-    color: #898989;
-  }
+  
   #header .logo img {
     max-height: 50px;
   }
@@ -234,7 +232,7 @@ body {
     margin-left: 5px;
   }
   .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-    color: #b8a07e;
+    color: #6783d1;
   }
   .navbar .dropdown ul {
     display: block;
@@ -394,9 +392,6 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
-  }
-  .hero-background {
-    
   }
   .hero-content h1 {
     font-size: 40px;
@@ -1089,16 +1084,6 @@ body {
       display: inline-block;
     }
   
-    /* journal */
-    #journal .journal-block .journal-info {
-      margin-bottom: 30px;
-    }
-  
-    /* Contact */
-    .contact-contact {
-      margin-bottom: 30px;
-    }
-  
     /* Footer */
     #footer .socials-media ul li {
       margin-right: 0;
@@ -1168,16 +1153,6 @@ body {
       float: none;
       margin: 20px;
       display: inline-block;
-    }
-  
-    /* journal */
-    #journal .journal-block .journal-info {
-      margin-bottom: 30px;
-    }
-  
-    /* Contact */
-    .contact-contact {
-      margin-bottom: 30px;
     }
   
     /* Footer */
@@ -1251,15 +1226,6 @@ body {
       display: inline-block;
     }
   
-    /* journal */
-    #journal .journal-block .journal-info {
-      margin-bottom: 30px;
-    }
-  
-    /* Contact */
-    .contact-contact {
-      margin-bottom: 30px;
-    }
   
     /* Footer */
     #footer .socials-media ul li {
@@ -1329,16 +1295,6 @@ body {
     #portfolio .portfolio-list .nav li {
       float: none;
       margin: 20px;
-    }
-  
-    /* journal */
-    #journal .journal-block .journal-info {
-      margin-bottom: 30px;
-    }
-  
-    /* Contact */
-    .contact-contact {
-      margin-bottom: 30px;
     }
   
     /* Footer */
